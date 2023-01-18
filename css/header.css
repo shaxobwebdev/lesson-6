@@ -1,0 +1,32 @@
+.logo h2 {
+  padding: 10px;
+  text-align: center;
+  background: #b36050;
+  border-radius: 0px;
+  font-size: 17px;
+  line-height: 27px;
+  color: #f1d3b9;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline-block;
+  transition: 0.5s;
+}
+
+nav a {
+  display: inline-block;
+  margin: 20px 15px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-transform: capitalize;
+  color: #b4604d;
+}
+
+nav img {
+  width: 100%;
+}

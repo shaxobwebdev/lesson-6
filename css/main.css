@@ -1,0 +1,171 @@
+@import "common.css";
+@import "header.css";
+@import "footer.css";
+
+#derenched {
+  background: #8c9461;
+  border-radius: 0px;
+}
+
+.derenched-row {
+  text-align: center;
+}
+
+.derenched-content button {
+  height: 50px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
+  background: #a9ae8d;
+  border-radius: 5px;
+}
+
+.derenched-row h3 {
+  padding: 60px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-transform: uppercase;
+  color: #f6f4ec;
+}
+
+.derenched-row h1 {
+  margin: 10px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 64px;
+  color: #f6f4ec;
+}
+
+/*rooms section*/
+
+.derench-row h3 {
+  padding: 39px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 39px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #b45f4d;
+  margin-bottom: 44px;
+}
+
+.card {
+  display: inline-block;
+  width: 33%;
+}
+
+.cards {
+  display: flex;
+  margin: 0px 70px 32px 70px;
+}
+
+.card h2 {
+  padding: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #b45f4d;
+}
+
+.card p {
+  color: #b45f4d;
+}
+
+.card button {
+  background-color: #b45f4d;
+  border-radius: 5px;
+}
+
+/* container_cont*/
+
+.dern img {
+  text-align: center;
+  width: 100%;
+}
+
+.dern h1 {
+  text-align: center;
+  color: #baa553;
+}
+
+/* common section */
+
+.derent {
+  display: flex;
+  background: #f1d3b9;
+  text-align: center;
+}
+
+.derent img {
+  margin: 84px 53px 96px 190px;
+}
+
+.derent p {
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  color: #b45f4d;
+}
+
+.derent h1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 58px;
+  color: #b45f4d;
+}
+
+.derents h3 {
+  text-align: center;
+  padding: 40px;
+  transition: 0.5s;
+}
+
+.derents h3 {
+  background-color: #8c9461;
+}
+
+.derent p {
+  display: inline-block;
+  padding: 150px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  color: #c1ada8;
+}
+
+.derents img {
+  margin: 7px;
+}
+
+.dernst ul li {
+  display: inline-block;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #b45f4d;
+}
+
+.derns_001 ul li {
+  display: inline-block;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #b45f4d;
+}
